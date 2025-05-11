@@ -1,0 +1,16 @@
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\bin\Debug\net8.0-windows\exercicio extra.exe
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\bin\Debug\net8.0-windows\exercicio extra.deps.json
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\bin\Debug\net8.0-windows\exercicio extra.runtimeconfig.json
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\bin\Debug\net8.0-windows\exercicio extra.dll
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\bin\Debug\net8.0-windows\exercicio extra.pdb
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio_extra.Form1.resources
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.csproj.GenerateResource.cache
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.AssemblyInfoInputs.cache
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.AssemblyInfo.cs
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.csproj.CoreCompileInputs.cache
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.dll
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\refint\exercicio extra.dll
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.pdb
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\exercicio extra.genruntimeconfig.cache
+C:\Users\Lopes\source\repos\exercicio extra\exercicio extra\obj\Debug\net8.0-windows\ref\exercicio extra.dll
